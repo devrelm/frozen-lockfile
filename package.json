@@ -1,0 +1,10 @@
+{
+  "name": "frozen-lockfile",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": "true",
+  "dependencies": {
+    "frame-throttle": "^2.0.0"
+  },
+  "workspaces": ["workspace"]
+}
